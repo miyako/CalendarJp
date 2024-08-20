@@ -1,1 +1,1 @@
-# 4d-component-calendar-jp
+# calendar-jp
