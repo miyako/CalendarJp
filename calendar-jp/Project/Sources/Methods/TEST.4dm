@@ -15,3 +15,4 @@ $test:=$CalendarJp.String(!1989-01-07!; "g.y年M月d日")  //S.64年1月7日
 $test:=$CalendarJp.String(!1989-01-08!; "ggy年M月d日")  //平元年1月8日
 $test:=$CalendarJp.String(!2019-04-30!; "gggy年M月d日")  //㍻31年4月30日
 $test:=$CalendarJp.String(!2019-05-01!; "ggggy年M月d日")  //令和元年5月1日
+
