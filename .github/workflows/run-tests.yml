@@ -12,7 +12,7 @@ on:
   workflow_call:      
  
 env:
-  project_path: example/Project/example.4DProject
+  project_path: calendar-jp/Project/calendar-jp.4DProject
   startup_method: test
   skip_onstartup: true
   create_data: false
@@ -26,9 +26,9 @@ jobs:
       fail-fast: false
       matrix:
         TOOL4D_PLATFORM: ["windows-latest", "macos-latest"]
-        TOOL4D_BRANCH: [20.x]
-        TOOL4D_VERSION: [20.2]
-        TOOL4D_BUILD: [latest]
+        TOOL4D_BRANCH: [20%20Rx]
+        TOOL4D_VERSION: [20%20R6]
+        TOOL4D_BUILD: [100154]
     runs-on: ${{ matrix.TOOL4D_PLATFORM }}
     
     steps:
