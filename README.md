@@ -1,3 +1,5 @@
+![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)
+
 # CalendarJp
 
 Support Japanese Calendar
