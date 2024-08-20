@@ -20,9 +20,9 @@ Support Japanese Calendar
 ## 例題
 
 ```4d
-var $CalendarJp : cs.CalendarJp
+var $CalendarJp : cs.CalendarJp.CalendarJp
 
-$CalendarJp:=cs.CalendarJp.me
+$CalendarJp:=cs.CalendarJp.CalendarJp.me
 
 //meiji test
 $test:=$CalendarJp.convertFromGregorian(!1868-01-25!)  //1.1.1
