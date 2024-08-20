@@ -1,1 +1,3 @@
-# calendar-jp
+# CalendarJp
+
+Support Japanese Calendar
