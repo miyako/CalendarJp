@@ -14,12 +14,6 @@ env:
 
 */
 
-If (OB Instance of:C1731(cs:C1710.UTest.UTest; 4D:C1709.Class))
-	
-	var $UTest : cs:C1710.UTest.UTest
-	$UTest:=cs:C1710.UTest.UTest.new()
-	return $UTest.run(OB Entries:C1720(cs:C1710))
-	
-Else 
-	return {show: Formula:C1597(IDLE:C311)}
-End if 
+var $UTest : cs:C1710.UTest.UTest
+$UTest:=cs:C1710.UTest.UTest.new()
+return $UTest.run(OB Entries:C1720(cs:C1710))
