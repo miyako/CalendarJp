@@ -6,9 +6,7 @@
 
 Support Japanese Calendar
 
- ## インストール
-
-* dependencies.jspn
+## dependencies.json
 
 ```json
 {
@@ -21,7 +19,7 @@ Support Japanese Calendar
 }
 ```
 
-## 例題
+## Usage
 
 ```4d
 var $CalendarJp : cs.CalendarJp.CalendarJp
