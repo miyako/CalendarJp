@@ -3,7 +3,7 @@
   "description": "Support Japanese Calendar",
   "author": "Keisuke Miyako <keisuke.miyako@4d.com>",
   "license": "MIT",
-  "repository": "https://github.com/miyako/4d-component-calendar-jp",
+  "repository": "https://github.com/miyako/calendar-jp",
   "version": "0.0.6",
   "tool": {
     "platform": "macos",
