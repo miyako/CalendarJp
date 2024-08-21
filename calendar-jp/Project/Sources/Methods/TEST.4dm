@@ -14,3 +14,6 @@ env:
 
 */
 
+var $UTest : cs:C1710.UTest.UTest
+$UTest:=cs:C1710.UTest.UTest.new()
+return $UTest.run(OB Entries:C1720(cs:C1710))
