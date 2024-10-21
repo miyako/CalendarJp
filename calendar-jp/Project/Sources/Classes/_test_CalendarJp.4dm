@@ -1,6 +1,6 @@
 Class constructor
 	
-	This:C1470.sut:=cs:C1710.CalendarJp.me
+	This:C1470.sut:=cs:C1710.CalendarJp.new()
 	
 Function convertFromGregorian
 	

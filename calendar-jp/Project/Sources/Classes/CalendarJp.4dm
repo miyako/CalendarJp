@@ -1,4 +1,4 @@
-shared singleton Class constructor()
+Class constructor()
 	
 	var $settings : Collection:=[]
 	
