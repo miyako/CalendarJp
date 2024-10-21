@@ -26,7 +26,7 @@ the `0.x.x` series is for no-singleton branch.
 ```4d
 var $CalendarJp : cs.CalendarJp.CalendarJp
 
-$CalendarJp:=cs.CalendarJp.CalendarJp.me
+$CalendarJp:=cs.CalendarJp.CalendarJp.new()
 
 //meiji test
 $test:=$CalendarJp.convertFromGregorian(!1868-01-25!)  //1.1.1
