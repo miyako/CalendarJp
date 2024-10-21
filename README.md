@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)
+![version](https://img.shields.io/badge/version-20%2B-E23089)
 [![license](https://img.shields.io/github/license/miyako/calendar-jp)](LICENSE)
 ![downloads](https://img.shields.io/github/downloads/miyako/calendar-jp/total)
 
@@ -13,11 +13,13 @@ Support Japanese Calendar
 	"dependencies": {
 		"calendar-jp": {
 			"github": "miyako/calendar-jp",
-			"version": "^0.0.6"
+			"version": "^0.0.20"
 		}
 	}
 }
 ```
+
+the `0.x.x` series is for no-singleton branch.
 
 ## Usage
 
