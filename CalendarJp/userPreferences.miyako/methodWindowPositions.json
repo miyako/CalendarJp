@@ -1,0 +1,56 @@
+{
+	"Sources/Methods/TEST.4dm": {
+		"left": 394,
+		"top": 629,
+		"width": 965,
+		"height": 515
+	},
+	"Sources/Classes/CalendarJp.4dm": {
+		"left": 283,
+		"top": 192,
+		"width": 777,
+		"height": 399
+	},
+	"Sources/Classes/_DateJp.4dm": {
+		"left": 2,
+		"top": 272,
+		"width": 1291,
+		"height": 710
+	},
+	"Sources/Classes/_EraSettings.4dm": {
+		"left": 718,
+		"top": 459,
+		"width": 1202,
+		"height": 526
+	},
+	"Sources/Classes/TEST.4dm": {
+		"left": 394,
+		"top": 629,
+		"width": 965,
+		"height": 515
+	},
+	"Sources/Methods/test.4dm": {
+		"left": 274,
+		"top": 283,
+		"width": 965,
+		"height": 550
+	},
+	"Sources/Classes/_test_CalendarJp.4dm": {
+		"left": 283,
+		"top": 192,
+		"width": 777,
+		"height": 399
+	},
+	"Trash/Methods/(ex_TEST).4dm": {
+		"left": 838,
+		"top": 348,
+		"width": 965,
+		"height": 459
+	},
+	"Sources/Methods/test_show.4dm": {
+		"left": 274,
+		"top": 283,
+		"width": 965,
+		"height": 550
+	}
+}
