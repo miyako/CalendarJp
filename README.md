@@ -16,7 +16,7 @@ Support Japanese Calendar
 	"dependencies": {
 		"calendar-jp": {
 			"github": "miyako/calendar-jp",
-			"version": "^1.0.20"
+			"version": "*"
 		}
 	}
 }
