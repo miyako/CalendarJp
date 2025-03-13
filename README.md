@@ -14,8 +14,8 @@ Support Japanese Calendar
 ```json
 {
 	"dependencies": {
-		"calendar-jp": {
-			"github": "miyako/calendar-jp",
+		"CalendarJp": {
+			"github": "miyako/CalendarJp",
 			"version": "*"
 		}
 	}
