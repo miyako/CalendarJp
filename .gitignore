@@ -1,8 +1,7 @@
-calendar-jp/userPreferences.*
-calendar-jp/Project/DerivedData/*
-calendar-jp/Data/*
-calendar-jp/Settings/backup.4DSettings
 CalendarJp/userPreferences.*
 CalendarJp/Project/*
 CalendarJp/Libraries/lib4d-arm64.dylib
 CalendarJp/Resources/en.lproj/syntaxEN.json
+CalendarJp_Build/*
+CalendarJp/Settings/buildApp.4DSettings
+CalendarJp/Data/*
