@@ -3,11 +3,21 @@
 [![license](https://img.shields.io/github/license/miyako/calendar-jp)](LICENSE)
 ![downloads](https://img.shields.io/github/downloads/miyako/calendar-jp/total)
 
-switch to [`no-singleton`](https://github.com/miyako/calendar-jp/tree/no-singleton) branch for 4D 20 LTS compatible version.
+switch to [`20.x`](https://github.com/miyako/calendar-jp/tree/20.x) branch for 4D 20 LTS compatible version.
 
 # CalendarJp
 
 Support Japanese Calendar
+
+### Compatibility
+
+![version](https://img.shields.io/badge/20%20R6%2B-E23089)
+
+* [string format](https://blog.4d.com/tailored-customization-for-dates-and-times/)
+
+![version](https://img.shields.io/badge/20%20R5%2B-E23089)
+
+*  [shared singleton](https://blog.4d.com/singletons-in-4d/)
 
 ## dependencies.json
 
