@@ -4,12 +4,12 @@
   "author": "Keisuke Miyako <keisuke.miyako@4d.com>",
   "license": "MIT",
   "repository": "https://github.com/miyako/calendar-jp",
-  "version": "1.0.22",
+  "version": "1.0.24",
   "tool": {
     "platform": "macos",
     "branch": "20%20Rx",
     "version": "20%20R6",
-    "build": "100159",
+    "build": "latest",
     "arch": "arm"
   }
 }
