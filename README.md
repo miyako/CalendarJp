@@ -19,6 +19,10 @@ Support Japanese Calendar
 
 *  [shared singleton](https://blog.4d.com/singletons-in-4d/)
 
+![version](https://img.shields.io/badge/20%20R3%2B-E23089)
+
+* [declare and assign](https://blog.4d.com/simplify-variable-declarations-assignments-in-a-single-line/)
+
 ## dependencies.json
 
 ```json
