@@ -21,7 +21,7 @@ on:
           required: true
 
 env: 
-  project_path: calendar-jp/Project/calendar-jp.4DProject
+  project_path: calendarJp/Project/calendarJp.4DProject
   
 jobs:
 
