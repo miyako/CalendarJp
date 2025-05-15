@@ -9,6 +9,16 @@ switch to [`no-singleton`](https://github.com/miyako/calendar-jp/tree/no-singlet
 
 Support Japanese Calendar
 
+### Compatibility
+
+![version](https://img.shields.io/badge/20%20R6%2B-E23089)
+
+* [string format](https://blog.4d.com/tailored-customization-for-dates-and-times/)
+
+![version](https://img.shields.io/badge/20%20R5%2B-E23089)
+
+*  [shared singleton](https://blog.4d.com/singletons-in-4d/)
+
 ## dependencies.json
 
 ```json
