@@ -20,8 +20,6 @@ Support Japanese Calendar
 }
 ```
 
-the `0.x.x` series is for no-singleton branch.
-
 ## Usage
 
 ```4d
